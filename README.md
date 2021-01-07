@@ -28,11 +28,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF recorded with android screen recorder.
+GIF recorded with an android screen recorder.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Emulator doesnt work well, used a physical old android phone to run on.
 
 ## License
 
